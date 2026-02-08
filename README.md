@@ -263,7 +263,7 @@ Benefits:
 
 ---
 
-# ⭐ Bonus Features (if implemented)
+# ⭐ Bonus Features
 
 * Pagination on list endpoints
 * OpenAPI / Swagger documentation
